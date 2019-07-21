@@ -20,9 +20,9 @@ Clone the repo.
 
 Run the main file:
 
-	```
-	src/RapidClick.au3
-	```
+```
+src/RapidClick.au3
+```
 
 ## Authors
 
